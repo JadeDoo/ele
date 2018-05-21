@@ -1,6 +1,6 @@
 # ele
 
-> A Vue.js project
+> vue.js外卖项目
 
 ## Build Setup
 
