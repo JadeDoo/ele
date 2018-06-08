@@ -34,7 +34,7 @@ export default {
         }
       }
 
-      console.log(this.score);
+      // console.log(this.score);
       return result;
     }
   }
